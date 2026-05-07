@@ -1,0 +1,23 @@
+aid: gestamp
+url: https://raw.githubusercontent.com/api-evangelist/gestamp/refs/heads/main/apis.yml
+name: Gestamp
+x-type: company
+description: >-
+  Gestamp Automocion is a Spanish global Tier 1 automotive supplier headquartered in Madrid. Gestamp designs and manufactures metal components for vehicle bodies, chassis, and mechanisms, with focus on lightweighting and structural safety for global automakers.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Tier 1 Supplier
+  - Metal Stamping
+  - Body
+  - Chassis
+created: '2026-05-06'
+modified: '2026-05-06'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.gestamp.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
