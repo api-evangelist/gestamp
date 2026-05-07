@@ -18,6 +18,12 @@ apis: []
 common:
   - type: Website
     url: https://www.gestamp.com/
+  - type: Plans
+    url: plans/gestamp-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/gestamp-rate-limits.yml
+  - type: FinOps
+    url: finops/gestamp-finops.yml
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
