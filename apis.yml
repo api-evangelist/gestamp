@@ -4,6 +4,17 @@ name: Gestamp
 kind: company
 description: >-
   Gestamp Automocion is a Spanish global Tier 1 automotive supplier headquartered in Madrid. Gestamp designs and manufactures metal components for vehicle bodies, chassis, and mechanisms, with focus on lightweighting and structural safety for global automakers.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: unknown
